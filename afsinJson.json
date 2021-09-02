@@ -1,3 +1,3 @@
  {
-  "functions_gitA":"const afsin_ = ()=>{console.log('from afsinur github!')}"
+  "functions_gitA":"console.log('from afsinur github!')"
 }
