@@ -10290,3 +10290,5 @@
       };
     }
   }.call(this));
+
+console.log("ibrahimadorer.js loaded from net");
